@@ -11,6 +11,8 @@
 - [Industry Applications](#industry-applications)
 - [Benefits and Usefulness](#benefits-and-usefulness)
 - [Future Potential](#future-potential)
+- [Project View](#Project View)
+- [References](#references)
 
 ## Project Overview
 EcoPower Logistics offers comprehensive logistics solutions that involve the acquisition, storage, and transportation of resources and goods on a global scale. This project aims to create a Power BI report to monitor orders and product sales. The report will be built in Power BI and will allow various stakeholders to access the same information about customers and their orders.
@@ -78,6 +80,18 @@ Enhancements in collaboration features can enable teams to work collaboratively 
 Incorporating feedback mechanisms from users and stakeholders will be crucial for continuous improvement. Future iterations can include features for users to provide feedback, report issues, and suggest improvements, ensuring that the project remains responsive to evolving needs.
 
 In conclusion, the EcoPower Logistics Report Project is not a one-time initiative but a foundation for ongoing data analysis and reporting excellence. Its future potential is vast, and as the project evolves, it will continue to provide EcoPower Logistics with valuable insights, operational efficiencies, and a competitive edge in the logistics industry.
+
+# Project View
+
+![P1](https://github.com/Technicalgrootboom/CMPG-323-Project-5-30844495/assets/91704415/edd71a5a-bdd4-4b5f-86ff-2b20c56be667)
+
+
+![P2](https://github.com/Technicalgrootboom/CMPG-323-Project-5-30844495/assets/91704415/ca865038-309c-4b37-964a-0727e278c41c)
+
+![P3](https://github.com/Technicalgrootboom/CMPG-323-Project-5-30844495/assets/91704415/4b5097c9-0044-447b-ad92-2406cf66d43d)
+
+
+![P4](https://github.com/Technicalgrootboom/CMPG-323-Project-5-30844495/assets/91704415/e5192a23-b885-4beb-af43-12b0299d4f8a)
 
 # Reference List
 1.	Lalwani, P. (2020) 'How to Create a Filter on Visual in Power BI: Power BI Tutorial for Beginners', YouTube. Available at: https://youtu.be/8y4yjPYe4-8?si=cesd0PrQkkQxwslC (Accessed: 4 October 2023).
